@@ -52,6 +52,7 @@ end
 
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise'
 
 group :test do
   # Adds support for Capybara system testing and selenium driver
