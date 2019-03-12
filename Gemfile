@@ -51,6 +51,7 @@ group :development do
 end
 
 gem 'bootstrap-sass'
+gem 'simple_form'
 
 group :test do
   # Adds support for Capybara system testing and selenium driver
